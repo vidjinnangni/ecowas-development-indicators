@@ -1,3 +1,5 @@
+🇫🇷 Français | [🇬🇧 English](README.en.md)
+
 # Indicateurs économiques CEDEAO
 
 Pipeline de récupération et d'analyse d'indicateurs économiques et d'aide au
